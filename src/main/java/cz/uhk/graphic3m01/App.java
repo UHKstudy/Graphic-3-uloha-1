@@ -15,7 +15,7 @@ public class App {
     // główny renderer (rysuje scenę)
     private Renderer renderer;
 
-    // gdy TAB jest wcisniety, klawisze 1-6 zmieniaja drugi obiekt
+    // gdy TAB jest wcisniety, klawisze 1 do  6 zmieniaja drugi obiekt
     private boolean secondObjectMode = false;
 
 

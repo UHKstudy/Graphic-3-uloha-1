@@ -47,7 +47,7 @@ public class Renderer {
     // kolor światła
     private final Vector3f lightColor = new Vector3f(1.8f, 1.8f, 2.4f);
 
-    // aktualny tryb debugowania obrazu
+    // // aktualny tryb debugowania obrazu, przelaczany z klawiatury
     private DebugMode debugMode = DebugMode.FINAL;
 
     // identyfikatory tekstur uzywanych dla dwoch obiektów sceny

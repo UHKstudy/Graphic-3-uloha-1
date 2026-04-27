@@ -50,6 +50,7 @@ public class Renderer {
     // aktualny tryb debugowania obrazu
     private DebugMode debugMode = DebugMode.FINAL;
 
+    // identyfikatory tekstur uzywanych dla dwoch obiektów sceny
     private int globeTextureId;
     private int moonTextureId;
 
